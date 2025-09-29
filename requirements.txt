@@ -1,16 +1,3 @@
-import asyncio
-import sqlite3
-import random
-import datetime
-import nest_asyncio
-nest_asyncio.apply()
-
-from telegram import update
-from telegram.ext import (
-    ApplicationBuilder,
-    Application,
-    CommandHandler,
-    ContextTypes,
-    MessageHandler,
-    filters
-)
+nest_asyncio
+telegram
+python-telegram-bot
