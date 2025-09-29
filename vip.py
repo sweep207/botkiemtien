@@ -30,7 +30,7 @@ import datetime
 import nest_asyncio
 nest_asyncio.apply()
 
-from telegram import
+from telegram import update
 from telegram.ext import (
     ApplicationBuilder,
     Application,
