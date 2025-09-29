@@ -1,0 +1,15 @@
+/addnv	Thêm nhân viên ( ctv ) mới vào hệ thống
+/delnv	Xóa nhân viên ( ctv ) khỏi hệ thống
+/duyet	Duyệt các yêu cầu hoặc giao dịch 
+/duyetrut 	Duyệt yêu cầu rút tiền
+/thongbao	Gửi thông báo đến người dùng
+/nap_request	 Xem hoặc xử lý yêu cầu nạp tiền/điểm
+/start_xoso	Khởi động mini-game xổ số
+/duyetnap	Duyệt yêu cầu nạp tiền
+/setnhiemvu	Tạo hoặc cập nhật nhiệm vụ cho người dùng
+/delnhiemvu	Xóa nhiệm vụ
+/listnhiemvu	Liệt kê tất cả nhiệm vụ hiện có
+---------------------
+⚠️ SOURCE FREE NÊN XIN ĐỪNG ĐÒI HỎI, NẾU MUA VIP,
+ THIẾT KẾ RIÊNG LIÊN HỆ ADMIN
+Telegram : @sweep207
